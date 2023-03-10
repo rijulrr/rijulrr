@@ -1,3 +1,4 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/P5D9mPJGR1JPREO53N/video" width="100"/>
+  <img src="https://giphy.com/clips/coffee-work-good-morning-P5D9mPJGR1JPREO53N" width="100"/>
 </div>
+
