@@ -1,4 +1,1 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/clips/coffee-work-good-morning-P5D9mPJGR1JPREO53N" width="100"/>
-</div>
-
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="480" src="https://giphy.com/embed/P5D9mPJGR1JPREO53N/video" width="480"></iframe></div>
