@@ -9,9 +9,9 @@
   </a>
 </div>
 
-<h1>
+<h1 id="intro" align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :zap: I'm Rijul, a junior at Texas A&M University studying Computer Science. I also have a crippling coffee addiction
+:zap: I'm Rijul, a junior at Texas A&M University studying Computer Science. I also have a crippling coffee addiction
