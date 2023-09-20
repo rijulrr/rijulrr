@@ -16,5 +16,5 @@
 
 :zap: I'm Rijul, a junior at Texas A&M University studying Computer Science. I also have a crippling coffee addiction
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rijulrr)](https://github.com/anuraghazra/github-readme-stats)
+
 
