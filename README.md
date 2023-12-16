@@ -1,20 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oFyDpRagf96Uz9rzO/giphy.gif" width="100"/>
-</div>
 
+# Hi 👋 I am Rijul! 
+I am a senior computer science major @ Texas A&M University. Previously, I have interned at Union Pacific Railroad and Alteryx where I worked as a full-stack engineer
 
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/rijulr">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
+- ✍️ Check out my personal [blog](https://pr2tik1.github.io/blog/) for articles and insights.
+- 👋 Connect with my on [LinkedIn!](https://linkedin.com/in/rijulr/)
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rijulrr&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rijulrr&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
-</div>
-
-<h1 id="intro" align="center">
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-:zap: I'm Rijul, a junior at Texas A&M University studying Computer Science. I also have a crippling coffee addiction
-
-
-
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://html.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+</p>
