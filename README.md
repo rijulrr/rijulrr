@@ -4,7 +4,7 @@ I am a senior computer science major @ Texas A&M University. Previously, I have 
 
 - 🌐 Visit my [portfolio website](https://rijulranjan.netlify.app) for more information and to get in touch.
 - ✍️ Check out my personal [blog](https://rijulranjan.netlify.app) so I can share stuff I am currently learning about. 
-- 👋 Connect with my on [LinkedIn!](https://linkedin.com/in/rijulr/)
+- 👋 Connect with me on [LinkedIn!](https://linkedin.com/in/rijulr/)
 ---
 
 <p align="center">
@@ -16,9 +16,6 @@ I am a senior computer science major @ Texas A&M University. Previously, I have 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
