@@ -17,6 +17,9 @@ I am a senior computer science major @ Texas A&M University. Previously, I have 
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
+  <a href="(https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
@@ -34,5 +37,8 @@ I am a senior computer science major @ Texas A&M University. Previously, I have 
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
 </p>
