@@ -2,8 +2,8 @@
 # Hi 👋 I am Rijul! 
 I am a senior computer science major @ Texas A&M University. Previously, I have interned at Union Pacific Railroad and Alteryx where I worked as a full-stack engineer
 
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
-- ✍️ Check out my personal [blog](https://pr2tik1.github.io/blog/) for articles and insights.
+- 🌐 Visit my [portfolio website](https://rijulranjan.netlify.app) for more information and to get in touch.
+- ✍️ Check out my personal [blog](https://rijulranjan.netlify.app) so I can share stuff I am currently learning about. 
 - 👋 Connect with my on [LinkedIn!](https://linkedin.com/in/rijulr/)
 ---
 
