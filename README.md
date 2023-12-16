@@ -17,7 +17,7 @@ I am a senior computer science major @ Texas A&M University. Previously, I have 
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="(https://go.dev/" target="_blank">
+  <a href="https://go.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
   </a>
   <a href="https://www.javascript.com/" target="_blank">
