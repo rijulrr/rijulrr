@@ -2,7 +2,7 @@
 # Hi 👋 I am Rijul! 
 Full-Stack Developer for Fidelity Investments. BS in Computer Science with a minor in Statistics from Texas A&M University
 
-- 🌐 Visit my [portfolio website](https://rijulranjan.netlify.app) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://rijulranjan.netlify.app) for more information about me and to get in touch.
 - ✍️ Check out my personal [blog](https://rijulranjan.netlify.app), where I share stuff I am currently learning about. 
 - 👋 Connect with me on [LinkedIn!](https://linkedin.com/in/rijulr/)
 ---
